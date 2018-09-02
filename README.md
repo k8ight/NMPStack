@@ -1,4 +1,17 @@
 # NMPStack
+
+All files are in zip so extract them on same folder where console.exe is located
+
+
+
+
+
+
+
+
+
+
+
 Nginx Mysql Php stack
 start NMPconsole with Administrative privilages 
 then intall service from the console
