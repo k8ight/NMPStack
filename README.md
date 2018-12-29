@@ -1,13 +1,5 @@
 # NMPStack
-Download Full Stack Stable legacy version here-https://mega.nz/#!bJByXaAT!endeS52cj4WtefrSg79uOErb2Cpqt78Xl35OYsWuGKk
-
 Download Full Stack stable Latest version here-https://mega.nz/#!6QxQjCTK!UrtTfKSHZPeXq7p3IK1Kv-n6nTlWFHFsghZtKqIP7vg
-
-
-
-
-
-
 
 Nginx Mysql Php stack
 start NMPconsole with Administrative privilages 
@@ -27,3 +19,4 @@ NOTE: DO NOT TOUCH ANY *. bat file or EDIT THEM
 2018 sounak kar
 
 
+Download Full Stack Stable legacy version here-https://mega.nz/#!bJByXaAT!endeS52cj4WtefrSg79uOErb2Cpqt78Xl35OYsWuGKk
