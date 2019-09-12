@@ -1,5 +1,5 @@
 # NMPStack
-Download Full Stack stable Latest version here-https://mega.nz/#!6QxQjCTK!UrtTfKSHZPeXq7p3IK1Kv-n6nTlWFHFsghZtKqIP7vg
+Download Full Stack stable Latest version here-https://mega.nz/#!6ZIRRYwB!LMZDcrtQNc-uL6u4O-TRwPPQ5Us1n8vjWWFCwNbF4Eg
 
 Nginx Mysql Php stack
 start NMPconsole with Administrative privilages 
