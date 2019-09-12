@@ -1,5 +1,9 @@
 # NMPStack
-Download Full Stack stable Latest version here-https://mega.nz/#!6ZIRRYwB!LMZDcrtQNc-uL6u4O-TRwPPQ5Us1n8vjWWFCwNbF4Eg
+Download Full Stack stable Latest version here-https://mega.nz/#!vUIxhCIK!DEBa1FJ_jaUyfuerk-LqAPKQew7xaf2grs6D4-HokXY
+
+
+THIS VERTION FIXES PHP_FASTCGI WINDOWS 500 hit exit ERROR ;
+
 
 Nginx Mysql Php stack
 start NMPconsole with Administrative privilages 
@@ -19,4 +23,4 @@ NOTE: DO NOT TOUCH ANY *. bat file or EDIT THEM
 2018 sounak kar
 
 
-Download Full Stack Stable legacy version here-https://mega.nz/#!bJByXaAT!endeS52cj4WtefrSg79uOErb2Cpqt78Xl35OYsWuGKk
+Download Full Stack Stable legacy version here-https://mega.nz/#!6ZIRRYwB!LMZDcrtQNc-uL6u4O-TRwPPQ5Us1n8vjWWFCwNbF4Eg
