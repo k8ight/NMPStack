@@ -1,5 +1,8 @@
 # NMPStack
 Download Full Stack stable Latest version here-https://mega.nz/#!KF4QBYra!elJMiYaTwNC3vicsqFgWTfuQbD-stWj_kDqwXtOjLGA
+
+
+
 THIS VERTION Changes from php 7.2 to php 7.4.1 and Mginx to 1.7.7 ;
 THIS VERTION Changes from Mysql to MariaDB 10.4 and PhpMyAdmin to 5.0.0 ;
 THIS VERTION FIXES PHP_FASTCGI WINDOWS 500 hit exit ERROR  with performance increase;
