@@ -28,7 +28,7 @@ Download Full Stack Stable legacy version here-https://mega.nz/#!vUIxhCIK!DEBa1F
 NOTE: DO NOT TOUCH ANY *. bat file or EDIT THEM
 <br/>
 
-*****if Services are stating but php n mariadb not starting then please install Visual C redestributable 2015 x64 
+*****if Services are stating but php n mariadb not starting then please install Visual C++ Redistributable 2015 x64 
 <br/>
 ******This Stack only works with AMD64 compatible versions of windows 
 <br/>
