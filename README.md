@@ -17,10 +17,17 @@ use localhost/phpmyadmin to change default password
 
 Nginx MariaDB Php Stack with phpmyadmin
 simply created to run on windows 
+
+
 ******DO NOT UPDATE OLD NMP to this one without Backup of mysql data
 NOTE: DO NOT TOUCH ANY *. bat file or EDIT THEM
 
-2020 sounak kar
-
+**2020 sounak kar
 
 Download Full Stack Stable legacy version here-https://mega.nz/#!vUIxhCIK!DEBa1FJ_jaUyfuerk-LqAPKQew7xaf2grs6D4-HokXY
+
+
+
+*****if Services are stating but php n mariadb not starting then please install Visual C redestributable 2015 x64 
+
+******This Stack only works with AMD64 compatible versions of windows 
