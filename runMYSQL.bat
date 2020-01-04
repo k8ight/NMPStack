@@ -1,2 +1,2 @@
 cd..
-mysql\bin\mysqld --console
+mariadb\bin\mysqld --console
