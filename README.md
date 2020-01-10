@@ -1,6 +1,8 @@
 # NMPStack
 Download Full Stack stable Latest version here-https://mega.nz/#!KF4QBYra!elJMiYaTwNC3vicsqFgWTfuQbD-stWj_kDqwXtOjLGA
-
+Linux version With support on Debian10 Available-included Nginx php Mariadb(Use mysql_secure_installation after debian install)&Preinstalled techtium DNS_DHCP server user localhost:5380
+Download link-https://mega.nz/#!2EJyxAYK!9I-6LEmbgzLsWmSsXYQGPJvaD9tAPWVT8wQ0K36E1ic
+!!!!to rin phpmyadmin install php-mbstring && php-mysql
 
 
 THIS VERTION Changes from php 7.2 to php 7.4.1 and Mginx to 1.7.7 ;<br/>
