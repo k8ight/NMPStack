@@ -7,7 +7,7 @@ Download link-https://mega.nz/#!2EJyxAYK!9I-6LEmbgzLsWmSsXYQGPJvaD9tAPWVT8wQ0K36
 !!!!to rin phpmyadmin install php-mbstring && php-mysql
 <br><br>
 
-THIS VERSION Changes from php 7.2 to php 7.4.1 and Mginx to 1.7.7 ;<br/>
+THIS VERSION Changes from php 7.2 to php 7.4.1 and Nginx to 1.7.7 ;<br/>
 THIS VERSION Changes from Mysql to MariaDB 10.4 and PhpMyAdmin to 5.0.0 ;<br/>
 THIS VERSION FIXES PHP_FASTCGI WINDOWS 500 hit exit ERROR  with performance increase;<br/>
 
