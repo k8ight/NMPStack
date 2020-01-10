@@ -3,7 +3,7 @@ Download Full Stack stable Latest version here-https://mega.nz/#!KF4QBYra!elJMiY
 
 <br><br>
 Linux version With support on Debian10 Available-included Nginx php Mariadb(Use mysql_secure_installation after debian install)&Preinstalled Technitium DNS_DHCP server use localhost:5380 or localhost/dhcp to oparate it;<br>
-Download link-https://mega.nz/#!2EJyxAYK!9I-6LEmbgzLsWmSsXYQGPJvaD9tAPWVT8wQ0K36E1ic<br>
+LinuxNMPD_server Download link-https://mega.nz/#!eAhUEA7Y!cfqnI2_JMhiKjUPoeKEV4kxEbJe4nZC6hX1ckXNokXE<br>
 Default live username:-root Password:-toor;
 <br><br>
 
