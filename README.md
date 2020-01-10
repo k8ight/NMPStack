@@ -2,9 +2,9 @@
 Download Full Stack stable Latest version here-https://mega.nz/#!KF4QBYra!elJMiYaTwNC3vicsqFgWTfuQbD-stWj_kDqwXtOjLGA
 
 <br><br>
-Linux version With support on Debian10 Available-included Nginx php Mariadb(Use mysql_secure_installation after debian install)&Preinstalled Technitium DNS_DHCP server use localhost:5380 to oparate it<br>
+Linux version With support on Debian10 Available-included Nginx php Mariadb(Use mysql_secure_installation after debian install)&Preinstalled Technitium DNS_DHCP server use localhost:5380 or localhost/dhcp to oparate it;<br>
 Download link-https://mega.nz/#!2EJyxAYK!9I-6LEmbgzLsWmSsXYQGPJvaD9tAPWVT8wQ0K36E1ic<br>
-!!!!to rin phpmyadmin install php-mbstring && php-mysql
+Default live username:-root Password:-toor;
 <br><br>
 
 THIS VERSION Changes from php 7.2 to php 7.4.1 and Nginx to 1.7.7 ;<br/>
