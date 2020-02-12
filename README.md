@@ -6,11 +6,11 @@ Linux version With support on Debian10 Available-included Nginx php Mariadb(Use 
 LinuxNMPD_server Download link-https://mega.nz/#!vApQzSbD!Q8muyR8mdomEBdigxZhrhpJ-7X1qf7XxADIb6dBs5Ng<br>
 Default live username:-root Password:-toor;
 <br><br>
-# Linux Debian10_with kernel 5.5 NMP  tack pre installed 
-root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;<br>
-download:https://mega.nz/#!DVdAXCwQ!5bdevllNh2ZQF1j37yK_RwTCdAku-qOMi-qvv785H-k
-<br>same OS with Cinnamon Gui:
-<br>same OS with LXQT Gui:
+# Linux Debian10_with kernel 5.5 NMP stack pre installed 
+root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;
+<br>Server with No GUI download:https://mega.nz/#!DVdAXCwQ!5bdevllNh2ZQF1j37yK_RwTCdAku-qOMi-qvv785H-k
+<br>Server with Cinnamon Gui:
+<br>Server with LXQT Gui:
 <br><br>
 # 
 
