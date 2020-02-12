@@ -8,8 +8,8 @@ Default live username:-root Password:-toor;
 <br><br>
 # Linux Debian10_with kernel 5.5 NMP stack pre installed 
 root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;
-<br>Server with No GUI download:https://mega.nz/#!DVdAXCwQ!5bdevllNh2ZQF1j37yK_RwTCdAku-qOMi-qvv785H-k
-<br>Server with Cinnamon Gui:
+<br>Server with No GUI download:https://mega.nz/#!4cthVQTa!W1biVYM_I7Py2WplDVm5bOnSLKGgdi6MJdSOM79OWtg
+<br>Server with Cinnamon Gui:https://mega.nz/#!gE8FmIgC!9cHh97YIBdMR7gJT67Nc-_NQYKrcwd-la0Sk2eaBQ04
 <br><br>
 # 
 
