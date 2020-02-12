@@ -10,7 +10,6 @@ Default live username:-root Password:-toor;
 root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;
 <br>Server with No GUI download:https://mega.nz/#!DVdAXCwQ!5bdevllNh2ZQF1j37yK_RwTCdAku-qOMi-qvv785H-k
 <br>Server with Cinnamon Gui:
-<br>Server with LXQT Gui:
 <br><br>
 # 
 
