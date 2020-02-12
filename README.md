@@ -6,7 +6,9 @@ Linux version With support on Debian10 Available-included Nginx php Mariadb(Use 
 LinuxNMPD_server Download link-https://mega.nz/#!vApQzSbD!Q8muyR8mdomEBdigxZhrhpJ-7X1qf7XxADIb6dBs5Ng<br>
 Default live username:-root Password:-toor;
 <br><br>
-
+# Linux Debian10_with kernel 5.5 NMP  tack pree installed Root password toor,FTP password same,phpmyadmin/mysql username root password NULL;
+download:https://mega.nz/#!DVdAXCwQ!5bdevllNh2ZQF1j37yK_RwTCdAku-qOMi-qvv785H-k
+<br><br>
 THIS VERSION Changes from php 7.2 to php 7.4.1 and Nginx to 1.7.7 ;<br/>
 THIS VERSION Changes from Mysql to MariaDB 10.4 and PhpMyAdmin to 5.0.0 ;<br/>
 THIS VERSION FIXES PHP_FASTCGI WINDOWS 500 hit exit ERROR  with performance increase;<br/>
