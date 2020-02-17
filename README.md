@@ -8,8 +8,16 @@ Default live username:-root Password:-toor;
 <br><br>
 # Linux Debian10_with kernel 5.5 NMP stack pre installed 
 root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;
-<br>Server with No GUI download:https://mega.nz/#!4cthVQTa!W1biVYM_I7Py2WplDVm5bOnSLKGgdi6MJdSOM79OWtg
-<br>Server with Cinnamon Gui:https://mega.nz/#!gE8FmIgC!9cHh97YIBdMR7gJT67Nc-_NQYKrcwd-la0Sk2eaBQ04
+<br>Server with No GUI download:
+  <p>
+  <br>Mediafire:https://www.mediafire.com/file/jzrirtkkmxhnggb/Debian_NMPFS_server.iso/file
+  <br>MegaDrive:
+  <br>GoolgeDrive:
+</p>
+<br>Server with Cinnamon Gui:
+  <br>Mediafire:
+  <br>MegaDrive:
+  <br>GoolgeDrive:
 <br><br>
 # 
 
