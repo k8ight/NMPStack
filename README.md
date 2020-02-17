@@ -6,7 +6,7 @@ Linux version With support on Debian10 Available-included Nginx php Mariadb(Use 
 LinuxNMPD_server Download link-https://mega.nz/#!vApQzSbD!Q8muyR8mdomEBdigxZhrhpJ-7X1qf7XxADIb6dBs5Ng<br>
 Default live username:-root Password:-toor;
 <br><br>
-# Linux Debian10_with kernel 5.5 NMP stack pre installed 
+# Linux Debian10_with NMP stack pre installed 
 root password toor,FTP user: root password toor ,phpmyadmin/mysql username root password NULL;
 <br>Server with No GUI download:
   <p>
