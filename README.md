@@ -17,7 +17,7 @@ root password toor,FTP user: root password toor ,phpmyadmin/mysql username root 
 <br>Server with Cinnamon Gui:
   <br>MegaDrive:https://mega.nz/#!4Z8EzCbI!4HQfoKOwzW_P0N3w-jGCdlLVQ-Dt8aaEUUkZ6WpgByo
   <br>GoolgeDrive:
-<br><br>
+<br><br>https://drive.google.com/file/d/1CSta8q66NaGseZCeh80GFYphA_bSRKD9/view?usp=drivesdk
 # 
 
 THIS VERSION Changes from php 7.2 to php 7.4.1 and Nginx to 1.7.7 ;<br/>
