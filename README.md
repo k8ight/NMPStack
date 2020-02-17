@@ -15,7 +15,6 @@ root password toor,FTP user: root password toor ,phpmyadmin/mysql username root 
   <br>GoolgeDrive:
 </p>
 <br>Server with Cinnamon Gui:
-  <br>Mediafire:
   <br>MegaDrive:
   <br>GoolgeDrive:
 <br><br>
