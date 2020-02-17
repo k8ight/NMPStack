@@ -11,7 +11,7 @@ root password toor,FTP user: root password toor ,phpmyadmin/mysql username root 
 <br>Server with No GUI download:
   <p>
   <br>Mediafire:https://www.mediafire.com/file/jzrirtkkmxhnggb/Debian_NMPFS_server.iso/file
-  <br>MegaDrive:
+  <br>MegaDrive:https://mega.nz/#!JZs2USoY!6scSzFL1-JLgRouQMRSljI7q2E0kIxyXs0VGrJUWBc8
   <br>GoolgeDrive:
 </p>
 <br>Server with Cinnamon Gui:
