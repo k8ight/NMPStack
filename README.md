@@ -1,5 +1,5 @@
 # NMPStack
-Download Full Stack stable Latest version here-https://mega.nz/#!KF4QBYra!elJMiYaTwNC3vicsqFgWTfuQbD-stWj_kDqwXtOjLGA
+Download Full Stack stable Latest version here-https://mega.nz/file/oVlQDRaI#oVXV57joez5cxd3LVsDGIoCFDI8VCHrKxsP_LQFBD0U 
 
 <br><br>
 Linux version With support on Debian10 Available-included Nginx php Mariadb(Use mysql_secure_installation after debian install)&Preinstalled Technitium DNS_DHCP server &cockpit use localhost to open server management list;<br>
@@ -20,8 +20,8 @@ root password toor,FTP user: root password toor ,phpmyadmin/mysql username root 
 <br><br>
 # 
 
-THIS VERSION Changes from php 7.2 to php 7.4.1 and Nginx to 1.7.7 ;<br/>
-THIS VERSION Changes from Mysql to MariaDB 10.4 and PhpMyAdmin to 5.0.0 ;<br/>
+THIS VERSION Changes from php 7.4.1 to php 8.0.6 and Nginx to 1.21.1 ;<br/>
+THIS VERSION Changes from Mysql to MariaDB 10.5-10 and PhpMyAdmin to 5.1.0 ;<br/>
 THIS VERSION FIXES PHP_FASTCGI WINDOWS 500 hit exit ERROR  with performance increase;<br/>
 
 
@@ -39,7 +39,7 @@ Nginx MariaDB Php Stack with phpmyadmin
 simply created to run on windows 
 <br/>
 
-Download Full Stack Stable legacy version here-https://mega.nz/#!vUIxhCIK!DEBa1FJ_jaUyfuerk-LqAPKQew7xaf2grs6D4-HokXY
+Download Full Stack Stable legacy version here-https://mega.nz/#!KF4QBYra!elJMiYaTwNC3vicsqFgWTfuQbD-stWj_kDqwXtOjLGA
 <h2>
 ******DO NOT UPDATE OLD NMP to this one without Backup of mysql data
 NOTE: DO NOT TOUCH ANY *. bat file or EDIT THEM
